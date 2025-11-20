@@ -1,0 +1,46 @@
+/* --- TOKYO NIGHT THEME --- */
+
+body {
+  background-color: #1a1b26 !important;
+  color: #a9b1d6 !important;
+}
+
+h1, h2, h3, .text-primary {
+  color: #7aa2f7 !important;
+}
+
+a {
+  color: #7aa2f7;
+}
+a:hover {
+  color: #bb9af7;
+}
+
+.navbar {
+    background-color: #16161e !important;
+    border-bottom: 1px solid #101014;
+}
+
+.card, .card-post {
+  background-color: #24283b !important;
+  border: 1px solid #414868 !important;
+}
+
+.card-body, .card-text {
+    color: #c0caf5 !important;
+}
+
+.text-muted {
+    color: #565f89 !important;
+}
+
+pre {
+  background-color: #24283b !important;
+  border: 1px solid #414868 !important;
+  color: #c0caf5 !important;
+}
+
+.quarto-title-banner {
+    background-color: #1a1b26 !important;
+    border-bottom: 1px solid #414868 !important;
+}

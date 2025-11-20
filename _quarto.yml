@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gianni's Research Log"
+  description: "Research Notes: Geometric Analysis & AI"
+  navbar:
+    background: "#2780e3"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/
+      - icon: linkedin
+        href: https://www.linkedin.com/
+    tools:
+      - icon: moon
+        href: javascript:void(0)
+        text: "Dark Mode"
+        menu:
+          - text: "Light"
+            icon: sun
+            href: javascript:quarto.theme.toggle('light')
+          - text: "Dark"
+            icon: moon
+            href: javascript:quarto.theme.toggle('dark')
+          - text: "Auto"
+            icon: circle-half-stroke
+            href: javascript:quarto.theme.toggle('auto')
+
+format:
+  html:
+    theme: 
+      light: [cosmo, styles.css]
+      dark: [cyborg, styles-dark.css]
+    toc: true
+    lang: en
+    html-math-method: mathjax
+    highlight-style: github
+    code-copy: true

@@ -1,0 +1,15 @@
+---
+title: "Research Journal"
+subtitle: "Exploring Asymptotic Geometric Analysis & Probability Theory"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+Welcome to my open notebook. Here, I document my learning process, Python implementations, and thoughts on high-dimensional mathematics.

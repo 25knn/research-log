@@ -1,0 +1,31 @@
+---
+title: "About"
+image: 299608618_564759088811220_5438932994910423754_n.jpg
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/
+---
+
+## The Project
+
+I am a third-year undergraduate student in **Fundamental Mathematics** at Sorbonne University (Paris).
+
+This "Open Notebook" documents my preparatory work for the **4EU+ BMST** (Bachelor in Mathematics Student Task) program.
+
+I am specifically applying for the project proposed by **Charles University in Prague** regarding the **Brunn-Minkowski Inequality**.
+
+## Philosophy & Goals
+
+My ambition is to pursue research in **Theoretical Artificial Intelligence**. I am convinced that the next breakthroughs in Deep Learning will not come solely from engineering, but from a deep understanding of underlying mathematical structures:
+
+1.  **Asymptotic Geometry:** How do volumes behave as dimension $n \to \infty$?
+2.  **Concentration of Measure:** Why does probability mass concentrate on thin structures?
+3.  **Probability Theory:** Random walks and Gaussian Chaos.
+
+This blog serves as a public record of my skill acquisition in these fields.

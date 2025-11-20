@@ -1,0 +1,42 @@
+---
+title: "Heading to Prague: Why I'm tackling the Brunn-Minkowski Inequality"
+author: "Gianni Blaising"
+date: "2025-11-21"
+categories: [4EU+, geometry, research]
+image: "minkowski_viz.png"
+description: "From the geometry of convex bodies to AI latent spaces: beginning a mathematical exploration."
+---
+
+The **4EU+** university alliance offers a rare opportunity for an undergraduate student: joining a genuine European research project via the BMST program. Among the topics proposed this year (from Warsaw to Copenhagen), one resonated particularly with my ambitions: **the Brunn-Minkowski Inequality**, proposed by Charles University in Prague.
+
+Why this choice?
+
+## Beyond Classical Geometry
+
+The Brunn-Minkowski inequality is fundamental in the geometry of convex bodies. It relates the volume of the Minkowski sum of two compact sets $A$ and $B$ in $\mathbb{R}^n$ to their respective volumes.
+
+The classical formulation is as follows:
+
+$$
+\text{Vol}(A+B)^{1/n} \geq \text{Vol}(A)^{1/n} + \text{Vol}(B)^{1/n}
+$$
+
+Where the Minkowski sum is defined by $A+B = \{a+b \mid a \in A, b \in B\}$.
+
+## Why does this matter for AI?
+
+My interest in this theorem goes beyond pure geometric beauty. I aim for a research career at the intersection of mathematics and **Machine Learning**.
+
+The Brunn-Minkowski inequality is the gateway to **concentration of measure theory**. In very high dimensions (which is the case for latent spaces of deep neural networks), classical geometric intuition collapses. Brunn-Minkowski provides the tools to understand how probability concentrates, a key phenomenon to explain the robustness and generalization capabilities of AI models.
+
+## The Battle Plan (Build in Public)
+
+I am not yet an expert in these topics. This blog aims to document my journey.
+
+In the coming weeks, to support my application to Prague and prepare for my Master's in Probability, I will publish here:
+
+1.  My reading notes on convexity.
+2.  Python simulations illustrating these geometric phenomena.
+3.  Connections between these theorems and recent AI research papers.
+
+The adventure begins now.
